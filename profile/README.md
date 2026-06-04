@@ -14,10 +14,17 @@
 
 ---
 
-This organization hosts the code behind a small, self-hosted setup run for one
-family — and a personal AI assistant alongside it. Everything meaningful here is
-intentionally private.
+This organization hosts the code behind a small homelab: a self-hosted media
+server and a personal AI assistant, run on a single box for one family.
 
-Nothing to see from the outside. 🛰️
+A little about what lives here:
+
+- 🎬 **Media** — books, movies, shows, music, and photos, streamed at home
+- 🤖 **An assistant** — a personal AI companion with chat, voice, and memory
+- 🔐 **One front door** — unified sign-in, so everything is one account
+- 🏠 **Self-hosted &amp; free** — no subscriptions, no third-party clouds holding the data
+
+The repositories are private by design — this is family infrastructure, not a
+product. If you're a member, sign in to see the full index. 🛰️
 
 <p align="center"><sub>No commercial product · no public services · just a homelab and the people who use it.</sub></p>
