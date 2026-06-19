@@ -1,5 +1,5 @@
 <!--
-  PUBLIC org profile — shown to the entire internet at github.com/Bella-Assistant
+  PUBLIC org profile — shown to the entire internet at github.com/LimbServer
   Lives in the public `.github` repo at profile/README.md.
   Keep this opaque on purpose: no domains, ports, IPs, app names, or architecture.
   The real index lives in the member-only `.github-private` repo.
@@ -15,12 +15,11 @@
 ---
 
 This organization hosts the code behind a small homelab: a self-hosted media
-server and a personal AI assistant, run on a single box for one family.
+server run on a single box for one family.
 
 A little about what lives here:
 
 - 🎬 **Media** — books, movies, shows, music, and photos, streamed at home
-- 🤖 **An assistant** — a personal AI companion with chat, voice, and memory
 - 🔐 **One front door** — unified sign-in, so everything is one account
 - 🏠 **Self-hosted &amp; free** — no subscriptions, no third-party clouds holding the data
 
